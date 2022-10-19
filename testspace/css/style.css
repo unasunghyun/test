@@ -1,0 +1,7 @@
+@charset "utf-8";
+@import url(https://fonts.googlepis.com/css?family=Lato);
+
+/* Reset */
+html,body,h1,h2,h3,h4,h5,h6,div,p,blockquote,pre,code,address,il,ol,li,menu,nav,section,article,aside,
+dl,dt,dd,table,thead,tbody,tfoot,label,caption,th,td,form,fieldset,legend,hr,input,button,textarea,object,fiqure,fiacaotion {margin:0;padding:0;}
+html,body{width: 100;}
